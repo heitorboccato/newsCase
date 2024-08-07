@@ -1,0 +1,20 @@
+{"when":1723053823,"controller":"rcc.user","event":"start task","detail":"name= from=robot.yaml","comment":"at task environment setup"}
+{"when":1723053823,"controller":"rcc.user","event":"environment","detail":"build","comment":"Progress: 00/15 v17.28.4 0.201s Context: \"Heitor Boccato\" \u003cAMORSAUDE\\heitorboccato@DESKTOP-U2VL5G5\u003e [windows_amd64/Microsoft Windows [versão 10.0.22631.3880]]."}
+{"when":1723053823,"controller":"rcc.user","event":"environment","detail":"build","comment":"Progress: 01/15 v17.28.4 0.016s Fresh [private mode] holotree environment 6e86fa7c-93b9-ceb2-3ea1-861f7dbaa0cd. (parent/pid: 5872/32596)"}
+{"when":1723053823,"controller":"rcc.user","event":"environment","detail":"build","comment":"Progress: 02/15 v17.28.4 0.019s Holotree blueprint is \"b566d02585677a03\" [windows_amd64 with 19 workers on 20 CPUs from \"conda.yaml\"]."}
+{"when":1723053823,"controller":"rcc.user","event":"environment","detail":"build","comment":"Progress: 14/15 v17.28.4 0.221s Restore space from library [with 19 workers on 20 CPUs; with compression: true]."}
+{"when":1723053824,"controller":"rcc.user","event":"environment","detail":"build","comment":"Progress: 15/15 v17.28.4 0.961s Fresh holotree done [with 19 workers on 20 CPUs]."}
+{"when":1723053824,"controller":"rcc.user","event":"start","detail":"robot","comment":"started"}
+{"when":1723053824,"controller":"rcc.user","event":"run","detail":"robot","comment":"task run"}
+{"when":1723053824,"controller":"rcc.user","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[33988:python.exe]"}
+{"when":1723053828,"controller":"rcc.user","event":"processes","detail":"updated","comment":"count from 1 to 5 ... map[14620:selenium-manager.exe 23792:conhost.exe 31308:cmd.exe 33988:python.exe 34000:WMIC.exe]"}
+{"when":1723053829,"controller":"rcc.user","event":"processes","detail":"updated","comment":"count from 5 to 2 ... map[29520:msedgedriver.exe 33988:python.exe]"}
+{"when":1723053830,"controller":"rcc.user","event":"processes","detail":"updated","comment":"count from 2 to 6 ... map[29520:msedgedriver.exe 30096:msedge.exe 33144:msedge.exe 33988:python.exe 34096:msedge.exe 34436:msedge.exe]"}
+{"when":1723053830,"controller":"rcc.user","event":"processes","detail":"updated","comment":"count from 6 to 7 ... map[29520:msedgedriver.exe 30096:msedge.exe 33144:msedge.exe 33780:msedge.exe 33988:python.exe 34096:msedge.exe 34436:msedge.exe]"}
+{"when":1723053835,"controller":"rcc.user","event":"processes","detail":"updated","comment":"count from 7 to 6 ... map[29520:msedgedriver.exe 33144:msedge.exe 33780:msedge.exe 33988:python.exe 34096:msedge.exe 34436:msedge.exe]"}
+{"when":1723053843,"controller":"rcc.user","event":"processes","detail":"updated","comment":"count from 6 to 7 ... map[3092:msedge.exe 29520:msedgedriver.exe 33144:msedge.exe 33780:msedge.exe 33988:python.exe 34096:msedge.exe 34436:msedge.exe]"}
+{"when":1723053870,"controller":"rcc.user","event":"processes","detail":"updated","comment":"count from 7 to 2 ... map[29520:msedgedriver.exe 33988:python.exe]"}
+{"when":1723053872,"controller":"rcc.user","event":"processes","detail":"updated","comment":"count from 2 to 1 ... map[33988:python.exe]"}
+{"when":1723053877,"controller":"rcc.user","event":"robot exit","detail":"From rcc \"v17.28.4\" (controller: \"user\") point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1723053877,"controller":"rcc.user","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1723053878,"controller":"rcc.user","event":"stop","detail":"robot","comment":"done"}
